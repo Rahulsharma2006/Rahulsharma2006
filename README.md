@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Solo Leveling Profile Image -->
+<img src="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?w=300&h=300&fit=crop" alt="Shadow Monarch" width="300" height="300" style="border-radius: 50%; border: 3px solid #FF003C; box-shadow: 0 0 20px #FF003C;"/>
+
 <!-- Neon Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=900&height=100&lines=Rahul+Sharma;Shadow+Monarch+Developer;Full+Stack+Dev;DSA+Enthusiast" alt="Typing SVG" />
 
@@ -83,6 +86,16 @@ I'm a **Full Stack Developer** grinding through competitive programming and DSA 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Rahulsharma2006&theme=dark&background=0d1117&stroke=FF003C&ring=FF003C&fire=FF003C&currStreakNum=ffffff&dates=ffffff&border_radius=8)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsharma2006&layout=compact&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C&border_radius=8)
+
+</div>
+
+---
+
+## 🐍 **CONTRIBUTION SHADOW**
+
+<div align="center">
+
+*Snake animation coming soon - Workflow in progress*
 
 </div>
 
