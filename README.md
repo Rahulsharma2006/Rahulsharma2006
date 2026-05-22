@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Solo Leveling Profile Image -->
-<img src="https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?w=300&h=300&fit=crop" alt="Shadow Monarch" width="300" height="300" style="border-radius: 50%; border: 3px solid #FF003C; box-shadow: 0 0 20px #FF003C;"/>
 
 <!-- Neon Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=900&height=100&lines=Rahul+Sharma;Shadow+Monarch+Developer;Full+Stack+Dev;DSA+Enthusiast" alt="Typing SVG" />
