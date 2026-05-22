@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Neon Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=900&height=100&lines=Rahul+Sharma;Shadow+Monarch+Developer;Full+Stack+Builder;Competitive+Programmer;DSA+Warrior" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=900&height=100&lines=Rahul+Sharma;Shadow+Monarch+Developer;Full+Stack+Dev;DSA+Enthusiast" alt="Typing SVG" />
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 🔴 **ABOUT THE SHADOW**
 
-I'm a **Full Stack Developer** grinding through competitive programming and DSA mastery while building projects that matter. My journey parallels Sung Jinwoo's – rising from ordinary to elite through relentless optimization.
+I'm a **Full Stack Developer** grinding through competitive programming and DSA mastery while building projects that matter. My journey parallels Sung Jinwoo's – rising from ordinary to elite through relentless dedication and strategic skill development.
 
 ```
 ⚔️ Daily Quest: DSA Problems & Algorithm Mastery
@@ -78,11 +78,11 @@ I'm a **Full Stack Developer** grinding through competitive programming and DSA 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahulsharma2006&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C&icon_color=FF003C&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahulsharma2006&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C&icon_color=FF003C)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Rahulsharma2006&theme=dark&background=0d1117&stroke=FF003C&ring=FF003C&fire=FF003C&currStreakNum=ffffff&dates=ffffff&border_radius=10)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Rahulsharma2006&theme=dark&background=0d1117&stroke=FF003C&ring=FF003C&fire=FF003C&currStreakNum=ffffff&dates=ffffff&border_radius=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsharma2006&layout=compact&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsharma2006&layout=compact&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C&border_radius=8)
 
 </div>
 
@@ -92,7 +92,7 @@ I'm a **Full Stack Developer** grinding through competitive programming and DSA 
 
 <div align="center">
 
-![Snake Animation](https://github.com/Rahulsharma2006/Rahulsharma2006/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/Rahulsharma2006/Rahulsharma2006/output/snake.svg)
 
 </div>
 
