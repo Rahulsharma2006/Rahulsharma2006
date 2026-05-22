@@ -88,16 +88,6 @@ I'm a **Full Stack Developer** grinding through competitive programming and DSA 
 
 ---
 
-## 🐍 **CONTRIBUTION SHADOW**
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/Rahulsharma2006/Rahulsharma2006/output/snake.svg)
-
-</div>
-
----
-
 ## 🔗 **SHADOW CONNECTIONS**
 
 <div align="center">
