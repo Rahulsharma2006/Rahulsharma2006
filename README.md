@@ -70,9 +70,8 @@ I'm a **Full Stack Developer** grinding through competitive programming and DSA 
 | 🔴 **Mission** | 📖 **Details** | ⚔️ **Status** |
 |:---:|:---|:---:|
 | **KitchenGPT** | AI-powered smart cooking assistant | 🔄 In Progress |
-| **AI Tools Directory** | Discover and explore elite AI tools | ✅ Completed |
-| **Anime Portfolio** | Premium anime-inspired dev portfolio | 🔄 In Progress |
-| **DSA Tracker** | Competitive programming dashboard | ✅ Active |
+| **Anime Portfolio** | Premium anime-inspired dev portfolio | 🔄 Active |
+| **Data Packet Inspection** | High-performance network traffic analyzer in C using libpcap for packet capture and protocol inspection | ✅ Completed |
 
 ---
 
