@@ -79,11 +79,16 @@ I'm a **Full Stack Developer** grinding through competitive programming and DSA 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahulsharma2006&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C&icon_color=FF003C&border_radius=5)
+<a href="https://github.com/Rahulsharma2006">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahulsharma2006&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C&icon_color=FF003C" />
+</a>
+<a href="https://github.com/Rahulsharma2006">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Rahulsharma2006&theme=dark&background=0d1117&stroke=FF003C&ring=FF003C&fire=FF003C&currStreakNum=ffffff&dates=ffffff" />
+</a>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Rahulsharma2006&theme=dark&background=0d1117&stroke=FF003C&ring=FF003C&fire=FF003C&currStreakNum=ffffff&dates=ffffff&border_radius=5)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsharma2006&layout=compact&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C&border_radius=5)
+<a href="https://github.com/Rahulsharma2006">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsharma2006&layout=compact&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C" />
+</a>
 
 </div>
 
