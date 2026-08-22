@@ -1,5 +1,4 @@
-
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -9,9 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: Generate Snake Animation
         uses: Platane/snk@main
@@ -20,11 +23,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_size: 1080
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Push generated files
-        uses: actions/upload-artifact@v3
-        with:
-          name: Generated files
-          path: dist/
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/
+          git commit -m "Generate snake animation" || echo "No changes to commit"
+          git push
