@@ -3,7 +3,7 @@
 <!-- Solo Leveling Profile Image -->
 
 <!-- Neon Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=900&height=100&lines=Rahul+Sharma;Shadow+Monarch+Developer;Full+Stack+Dev;DSA+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=900&height=100&lines=Rahul+Sharma;Shadow+Monarch+Developer;DSA+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 🔴 **ABOUT THE SHADOW**
 
-I'm a **Full Stack Developer** grinding through competitive programming and DSA mastery while building projects that matter. My journey parallels Sung Jinwoo's – rising from ordinary to elite through relentless dedication and strategic skill development.
+I'm a **Full Stack Developer** grinding through competitive programming and DSA mastery while building projects that matter. My journey parallels Sung Jinwoo's – rising from ordinary to elite through continuous growth and mastery.
 
 ```
 ⚔️ Daily Quest: DSA Problems & Algorithm Mastery
@@ -81,9 +81,9 @@ I'm a **Full Stack Developer** grinding through competitive programming and DSA 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahulsharma2006&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C&icon_color=FF003C)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Rahulsharma2006&theme=dark&background=0d1117&stroke=FF003C&ring=FF003C&fire=FF003C&currStreakNum=ffffff&dates=ffffff&border_radius=8)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Rahulsharma2006&theme=dark&background=0d1117&stroke=FF003C&ring=FF003C&fire=FF003C&currStreakNum=ffffff&dates=ffffff&border_radius=5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsharma2006&layout=compact&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C&border_radius=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsharma2006&layout=compact&theme=dark&bg_color=0d1117&title_color=FF003C&text_color=ffffff&border_color=FF003C&border_radius=5)
 
 </div>
 
@@ -103,10 +103,10 @@ I'm a **Full Stack Developer** grinding through competitive programming and DSA 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF003C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-FF003C?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF003C?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)](https://yourportfolio.com)
-[![Discord](https://img.shields.io/badge/Discord-7F00FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF003C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/rahulsharma)
+[![Twitter](https://img.shields.io/badge/Twitter-FF003C?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/rahulsharma)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF003C?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)](https://rahulsharma.dev)
+[![Discord](https://img.shields.io/badge/Discord-7F00FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/rahulsharma)
 
 </div>
 
